@@ -7,4 +7,4 @@
 
 ----
 
-Page is live [**Click Here**](https://www.itsamoghgr.github.io/portfolio_website/)
+Page is live [**Click Here**](https://itsamoghgr.github.io/portfolio_website/)
